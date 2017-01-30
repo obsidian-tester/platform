@@ -23,7 +23,7 @@
   <parent>
     <groupId>org.obsidiantoaster</groupId>
     <artifactId>platform</artifactId>
-    <version>1.0.0.Dummy</version>
+    <version>1.0.1-SNAPSHOT</version>
   </parent>
 
   <groupId>org.obsidiantoaster.quickstarts</groupId>
